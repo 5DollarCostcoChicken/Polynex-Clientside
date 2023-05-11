@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: e87e39c3fe679a4498f7dfd948d43e5f
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Right_Shoulder' has translation animation
+      that will be discarded.\n\t'Left_Shoulder' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: frontlinegruntguard(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface38
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0.00001969397, y: 0.033628754, z: 0.00037552862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CoG
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0.000041768886, y: 0.03167968, z: 0.00014778339}
+      rotation: {x: -0.0044967434, y: -0.0044155945, z: -0.70708436, w: 0.7071011}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tummy
+      parentName: CoG
+      position: {x: -0.009857805, y: 0, z: 0.00074150256}
+      rotation: {x: 0.9996626, y: -0.0022116322, z: -0.02588286, w: -0.00005726269}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Tummy
+      position: {x: -0.012004548, y: 0, z: 0.0025851533}
+      rotation: {x: 0.115705885, y: -0.02586016, z: 0.01609245, w: 0.99281645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0.0020176694, y: 0.00001642629, z: -0.00059236394}
+      rotation: {x: -0.64304894, y: 0.6656053, z: 0.26316702, w: 0.2723982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Shoulder
+      parentName: Tummy
+      position: {x: -0.010836959, y: -0.007846, z: 0.002239051}
+      rotation: {x: 0.03482128, y: 0.11365309, z: -0.68047553, w: 0.7230654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Elbow
+      parentName: Right_Shoulder
+      position: {x: 0.011758044, y: 0.000000012911572, z: 0.0023113799}
+      rotation: {x: -0.030955698, y: -0.092702456, z: -0.04166715, w: 0.99433994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand
+      parentName: Right_Elbow
+      position: {x: 0.010964136, y: 0.000000016755612, z: 0.00019811993}
+      rotation: {x: -0.018693354, y: -0.29675767, z: 0.014246899, w: 0.9546636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Fingers
+      parentName: Right_Hand
+      position: {x: 0.003779401, y: -0.00000005616731, z: 0.00019811996}
+      rotation: {x: 0, y: -0, z: -0.24470909, w: 0.96959656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Thumb
+      parentName: Right_Hand
+      position: {x: 0.0013257989, y: 0.0009111092, z: -0.00167541}
+      rotation: {x: 0, y: -0, z: -0.4483752, w: 0.89384544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube2
+      parentName: Right_Hand
+      position: {x: 0.0037110792, y: 0.001071748, z: 0.0010043844}
+      rotation: {x: -0.52381426, y: 0.45309153, z: -0.48420367, w: 0.5346714}
+      scale: {x: 0.17321783, y: 0.5442512, z: 0.17234217}
+    - name: polySurface40
+      parentName: Right_Elbow
+      position: {x: 0.005474064, y: 0.00009287119, z: 0.000051141084}
+      rotation: {x: 0.86141205, y: -0.5079068, z: -3.110032e-17, w: 5.2746274e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Shoulder
+      parentName: Tummy
+      position: {x: -0.010767461, y: 0.007857724, z: 0.0022390536}
+      rotation: {x: -0.68508893, y: 0.7189377, z: -0.11467531, w: -0.025127616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Elbow
+      parentName: Left_Shoulder
+      position: {x: -0.011758022, y: 0, z: -0.0023113787}
+      rotation: {x: -0.10664318, y: -0.088674925, z: -0.027011031, w: 0.98996687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand
+      parentName: Left_Elbow
+      position: {x: -0.010964131, y: 0, z: -0.00019811818}
+      rotation: {x: 0, y: 0, z: 0.02323464, w: 0.99973005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Fingers
+      parentName: Left_Hand
+      position: {x: -0.0037793901, y: 0, z: -0.00019811818}
+      rotation: {x: 0, y: 0, z: 0.40044844, w: 0.9163193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Thumb
+      parentName: Left_Hand
+      position: {x: -0.0013257696, y: -0.00091115444, z: 0.001675408}
+      rotation: {x: 0, y: -0, z: -0.21623185, w: 0.9763421}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: Left_Elbow
+      position: {x: -0.008921589, y: 0.002139077, z: 0.0017614687}
+      rotation: {x: -0.007862283, y: 0.71003485, z: 0.70385057, w: -0.019572236}
+      scale: {x: 1.669248, y: 2.0124247, z: 0.040118568}
+    - name: polySurface41
+      parentName: Left_Elbow
+      position: {x: -0.0054931426, y: -0.000058412552, z: -0.00005113989}
+      rotation: {x: 0, y: -0, z: -0.5079068, w: 0.86141205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_leg
+      parentName: CoG
+      position: {x: -0.0011180922, y: -0.0032932507, z: -0.0011831515}
+      rotation: {x: -0.09790925, y: 0.0036646002, z: 0.9933984, w: 0.059665706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Knee
+      parentName: Left_leg
+      position: {x: -0.016748693, y: 0, z: -0.00014298606}
+      rotation: {x: 0.01678672, y: -0.31311396, z: 0.041478645, w: 0.94866085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Foot
+      parentName: Left_Knee
+      position: {x: -0.015552475, y: 0, z: -0.0006669595}
+      rotation: {x: 0.0683634, y: 0.33244964, z: -0.02255543, w: 0.94036967}
+      scale: {x: 1, y: 1, z: 1}
+    - name: No
+      parentName: Left_Foot
+      position: {x: -0.0025518255, y: 0, z: 0}
+      rotation: {x: 0.0259372, y: 0.027662802, z: -0.6834958, w: 0.7289688}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Toe
+      parentName: No
+      position: {x: -0.0017922447, y: -0.000012397828, z: 0.0039308327}
+      rotation: {x: -0.00094908016, y: -0.08352984, z: -0.011321726, w: 0.99644053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Leg
+      parentName: CoG
+      position: {x: -0.0011181422, y: 0.003377114, z: -0.0011831484}
+      rotation: {x: 0.9716684, y: 0.11464575, z: 0.075992644, w: 0.1922029}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Knee
+      parentName: Right_Leg
+      position: {x: 0.016748725, y: 0.00000000380569, z: 0.00014299}
+      rotation: {x: 0.014718041, y: -0.29762337, z: 0.04434247, w: 0.95353943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Foot
+      parentName: Right_Knee
+      position: {x: 0.015552491, y: 0.000000039617913, z: 0.00066696}
+      rotation: {x: 0.19869035, y: 0.30248728, z: 0.082235254, w: 0.9285801}
+      scale: {x: 1, y: 1, z: 1}
+    - name: No 1
+      parentName: Right_Foot
+      position: {x: 0.002551825, y: -0.00000006619256, z: 0}
+      rotation: {x: 0, y: -0, z: -0.68398774, w: 0.7294935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Toe
+      parentName: No 1
+      position: {x: 0.0017922444, y: 0.000012400888, z: -0.00393083}
+      rotation: {x: 0.0019001514, y: -0.068103425, z: -0.0115174735, w: 0.99761}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder_002
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0, y: 0.034280427, z: 0.04817212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: Cylinder_002
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder_003
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0, y: 0.034280427, z: 0.04817212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform2
+      parentName: Cylinder_003
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface39
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0.00001969397, y: 0.033628754, z: 0.00037552862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: polySurface39
+      position: {x: 0.00001969397, y: -0.033628754, z: -0.00037552862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0.0008235324, y: -0.00025245876, z: 0.015410969}
+      rotation: {x: 0, y: 0.60159254, z: -0, w: 0.79880315}
+      scale: {x: 0.5205279, y: 1, z: 1}
+    - name: ikHandle2
+      parentName: nurbsCircle1
+      position: {x: 0.00082859985, y: 0.0037384494, z: -0.0019930971}
+      rotation: {x: 0.17842332, y: -0, z: -0, w: 0.98395383}
+      scale: {x: 1.9211266, y: 1, z: 1}
+    - name: nurbsCircle2
+      parentName: frontlinegruntguard(Clone)
+      position: {x: -0.007315908, y: 0.0004058637, z: -0.01826719}
+      rotation: {x: 8.6519486e-17, y: 0.7361274, z: -8.6519486e-17, w: 0.67684305}
+      scale: {x: 0.5205279, y: 1, z: 1}
+    - name: ikHandle1
+      parentName: nurbsCircle2
+      position: {x: -0.0016755628, y: 0.0037384462, z: -0.0019930983}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.9211266, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

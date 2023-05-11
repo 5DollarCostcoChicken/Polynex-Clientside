@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: b90a8a001c5160347b159bd23876ddce
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Colosseium_Guy:Right_Shoulder' has translation
+      animation that will be discarded.\n\t'Colosseium_Guy:Left_Shoulder' has translation
+      animation that will be discarded.\n\t'Colosseium_Guy:Left_leg' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Ded(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Colosseium_Guy:polySurface38
+      parentName: Ded(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube6
+      parentName: Ded(Clone)
+      position: {x: -0, y: 0.05058745, z: 0.0048619537}
+      rotation: {x: 0, y: -0, z: -0.38268346, w: 0.92387956}
+      scale: {x: 0.2449121, y: 0.2449121, z: 0.04451005}
+    - name: transform5
+      parentName: pCube6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube7
+      parentName: Ded(Clone)
+      position: {x: -0, y: 0.05058745, z: 0.0048619537}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: transform4
+      parentName: pCube7
+      position: {x: -0, y: -0.05058745, z: -0.0048619537}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube9
+      parentName: Ded(Clone)
+      position: {x: -0.0073463093, y: 0.03347168, z: 0.00007405475}
+      rotation: {x: -0.08425724, y: -0.7020689, z: -0.08425724, w: 0.7020689}
+      scale: {x: 0.34904706, y: 1.4319054, z: 0.03451207}
+    - name: transform7
+      parentName: pCube9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube10
+      parentName: Ded(Clone)
+      position: {x: -0.0039378256, y: 0.03347168, z: -0.003366312}
+      rotation: {x: 0.017045671, y: 0.9877343, z: 0.051936448, w: -0.14626342}
+      scale: {x: 0.34904706, y: 1.4319054, z: 0.03451207}
+    - name: transform8
+      parentName: pCube10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube11
+      parentName: Ded(Clone)
+      position: {x: -0.0046198545, y: 0.033143647, z: 0.0037097735}
+      rotation: {x: 0.06343007, y: 0.97855365, z: -0.02617821, w: 0.19422704}
+      scale: {x: 0.34904706, y: 1.4319054, z: 0.03451207}
+    - name: transform6
+      parentName: pCube11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube12
+      parentName: Ded(Clone)
+      position: {x: -0.005538452, y: 0.03323939, z: -0.000004048037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform9
+      parentName: pCube12
+      position: {x: 0.005538452, y: -0.03323939, z: 0.000004048037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube13
+      parentName: Ded(Clone)
+      position: {x: 0.005676095, y: 0.03323939, z: -0.000004048037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: transform10
+      parentName: pCube13
+      position: {x: 0.005538452, y: -0.03323939, z: 0.000004048037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: Ded(Clone)
+      position: {x: -0.010636897, y: 0.00021990782, z: 0.00012831525}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle1
+      parentName: nurbsCircle1
+      position: {x: 0.0014141473, y: 0.004144183, z: -0.0019931886}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle2
+      parentName: Ded(Clone)
+      position: {x: 0.011620952, y: -0.00034364194, z: 0.0000029988478}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle2
+      parentName: nurbsCircle2
+      position: {x: -0.0021492082, y: 0.00414418, z: -0.00199319}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Colosseium_Guy:CoG
+      parentName: Ded(Clone)
+      position: {x: -0.000041933938, y: 0.033504102, z: -0.0030076737}
+      rotation: {x: -0.000000008231807, y: -0.000000008231807, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0053799674, y: 0.00008254588, z: 0.0047615427}
+      rotation: {x: -0.6507451, y: 0.7318024, z: 0.16091162, w: 0.12289658}
+      scale: {x: 1, y: 1, z: -1}
+    - name: polySurface3
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0056553246, y: -0.00360643, z: 0.0034697412}
+      rotation: {x: -0.14335094, y: -0.04665327, z: 0.6553406, w: 0.740137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0056581856, y: 0.0038378465, z: 0.0035194654}
+      rotation: {x: 0.71000063, y: -0.6898333, z: 0.0121227605, w: -0.14100434}
+      scale: {x: 1, y: 1, z: -1}
+    - name: polySurface5
+      parentName: Colosseium_Guy:CoG
+      position: {x: 0.034577332, y: 0.00004255034, z: 0.00000087133566}
+      rotation: {x: 0.7071068, y: -0.7071068, z: -4.3297806e-17, w: 4.3297806e-17}
+      scale: {x: 1, y: 1, z: -1}
+    - name: polySurface2
+      parentName: Colosseium_Guy:CoG
+      position: {x: 0.03457708, y: 0.000041472365, z: -0.0000005242873}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0057425713, y: 0.00008254688, z: -0.0035635957}
+      rotation: {x: 0.025687968, y: 0.025687968, z: 0.70664006, w: 0.70664006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0057425713, y: 0.00008254689, z: -0.0035635957}
+      rotation: {x: 0.704721, y: -0.704721, z: -0.058037676, w: 0.058037676}
+      scale: {x: 1, y: 1, z: -1}
+    - name: polySurface4
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0057425713, y: 0.00008254689, z: -0.0035635957}
+      rotation: {x: 0.7051726, y: -0.7051726, z: 0.05226534, w: -0.05226534}
+      scale: {x: 1, y: 1, z: -1}
+    - name: Colosseium_Guy:Tummy
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.009857805, y: 2.4143866e-18, z: 0.00074150256}
+      rotation: {x: -0.9999976, y: 0.0022124052, z: 0.00000003491164, w: 0.0000000058465104}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999999}
+    - name: pCube8
+      parentName: Colosseium_Guy:Tummy
+      position: {x: -0.008937573, y: 0.00005130507, z: 0.0009849004}
+      rotation: {x: -0.70554066, y: 0.7086694, z: 4.3393488e-17, w: -4.3201906e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Colosseium_Guy:Neck
+      parentName: Colosseium_Guy:Tummy
+      position: {x: -0.012004548, y: 0, z: 0.0025851533}
+      rotation: {x: -0.000000005470363, y: 0.00000002336788, z: 0.015021609, w: 0.9998872}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: Colosseium_Guy:Head
+      parentName: Colosseium_Guy:Neck
+      position: {x: -0.0020176694, y: 0.00001642629, z: -0.00059236394}
+      rotation: {x: 0.6948157, y: -0.7191878, z: -1.418625e-10, w: 0.000000008230581}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: pCube14
+      parentName: Colosseium_Guy:Head
+      position: {x: -0.00006429995, y: 0.0029032924, z: 0.0062677776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.11797413, y: 0.24976836, z: 0.029268436}
+    - name: Colosseium_Guy:Left_Shoulder
+      parentName: Colosseium_Guy:Tummy
+      position: {x: -0.010767461, y: 0.007857724, z: 0.0022390536}
+      rotation: {x: 0.6859852, y: -0.7191053, z: 0.1079742, w: 0.025564346}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: pCube4
+      parentName: Colosseium_Guy:Left_Shoulder
+      position: {x: -0.0026125049, y: 0.0012859964, z: -0.00083303556}
+      rotation: {x: 0, y: -0, z: -0.5270514, w: 0.8498335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Colosseium_Guy:Left_Elbow
+      parentName: Colosseium_Guy:Left_Shoulder
+      position: {x: -0.011758022, y: -5.15001e-18, z: -0.0023113787}
+      rotation: {x: -0.0011211692, y: -0.047265895, z: -0.01883566, w: 0.9987042}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Colosseium_Guy:Left_Hand
+      parentName: Colosseium_Guy:Left_Elbow
+      position: {x: -0.010964131, y: 0, z: -0.00019811818}
+      rotation: {x: 0.0000000027743587, y: -0.000000032208444, z: 0.023234189, w: 0.9997301}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: pCube2
+      parentName: Colosseium_Guy:Left_Hand
+      position: {x: -0.004233548, y: 0.000036883357, z: -0.000080569414}
+      rotation: {x: 0.0011527603, y: -0.001467024, z: -0.59708863, w: 0.80217314}
+      scale: {x: 0.084685184, y: 1, z: 1}
+    - name: Colosseium_Guy:Left_Fingers
+      parentName: Colosseium_Guy:Left_Hand
+      position: {x: -0.0037793901, y: 0, z: -0.00019811818}
+      rotation: {x: -0.000000023298309, y: 0.00000002780459, z: -0.52778405, w: 0.8493786}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Colosseium_Guy:Left_Thumb
+      parentName: Colosseium_Guy:Left_Hand
+      position: {x: -0.0013257696, y: -0.00091115444, z: 0.001675408}
+      rotation: {x: -0.000000023298309, y: 0.00000002780459, z: -0.52778405, w: 0.8493786}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Colosseium_Guy:Right_Shoulder
+      parentName: Colosseium_Guy:Tummy
+      position: {x: -0.010836959, y: -0.007846, z: 0.002239051}
+      rotation: {x: -0.108086266, y: -0.025086597, z: 0.68916094, w: -0.71606237}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: pCube5
+      parentName: Colosseium_Guy:Right_Shoulder
+      position: {x: 0.0025888013, y: -0.0012381887, z: 0.00083303824}
+      rotation: {x: 0, y: 0, z: 0.8498335, w: 0.5270514}
+      scale: {x: 1, y: 1, z: -1}
+    - name: Colosseium_Guy:Right_Elbow
+      parentName: Colosseium_Guy:Right_Shoulder
+      position: {x: 0.011758044, y: 0.000000012911572, z: 0.0023113799}
+      rotation: {x: -0.0011211034, y: -0.047265727, z: -0.018835578, w: 0.9987042}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000004}
+    - name: Colosseium_Guy:Right_Hand
+      parentName: Colosseium_Guy:Right_Elbow
+      position: {x: 0.010964136, y: 0.000000016755612, z: 0.00019811993}
+      rotation: {x: -0.000000034864467, y: 0.0000000049894093, z: 0.023234352, w: 0.9997301}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: pCube15
+      parentName: Colosseium_Guy:Right_Hand
+      position: {x: 0.0018408289, y: 0.0012195051, z: 0.012894658}
+      rotation: {x: -0.6885814, y: -0.1607971, z: 0.1607971, w: 0.6885814}
+      scale: {x: 0.113575034, y: 5.0181766, z: 0.113575034}
+    - name: Colosseium_Guy:Right_Fingers
+      parentName: Colosseium_Guy:Right_Hand
+      position: {x: 0.003779401, y: -0.00000005616731, z: 0.00019811996}
+      rotation: {x: -1.1979392e-10, y: 0.0000000028257967, z: -0.52778405, w: 0.84937865}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: Colosseium_Guy:Right_Thumb
+      parentName: Colosseium_Guy:Right_Hand
+      position: {x: 0.0013257989, y: 0.0009111092, z: -0.00167541}
+      rotation: {x: 0.0000000010557579, y: -0.000000033882753, z: -0.52778405, w: 0.84937865}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: Colosseium_Guy:Left_leg
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0011180922, y: -0.0032932507, z: -0.0011831515}
+      rotation: {x: -0.000000011732027, y: 0.0000000030238598, z: 0.99178624, w: 0.12790704}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: Colosseium_Guy:Left_Knee
+      parentName: Colosseium_Guy:Left_leg
+      position: {x: -0.016748693, y: 0, z: -0.00014298606}
+      rotation: {x: -3.822273e-10, y: -0.000000023360595, z: 0.047631137, w: 0.99886507}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Colosseium_Guy:Left_Foot
+      parentName: Colosseium_Guy:Left_Knee
+      position: {x: -0.015552475, y: 0, z: -0.0006669595}
+      rotation: {x: 0.035058662, y: 0.0035682635, z: 0.05971522, w: 0.9975933}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Colosseium_Guy:No
+      parentName: Colosseium_Guy:Left_Foot
+      position: {x: -0.0025518255, y: 0, z: 0}
+      rotation: {x: -0.0000000100857696, y: -0.000000006501757, z: -0.68398774, w: 0.72949344}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Colosseium_Guy:Left_Toe
+      parentName: Colosseium_Guy:No
+      position: {x: -0.0017922447, y: -0.000012397828, z: 0.0039308327}
+      rotation: {x: 0.0000000026456644, y: 3.3068655e-11, z: -0.011361449, w: 0.9999355}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Colosseium_Guy:Right_Leg
+      parentName: Colosseium_Guy:CoG
+      position: {x: -0.0011181422, y: 0.003377114, z: -0.0011831484}
+      rotation: {x: 0.99178624, y: 0.12790707, z: -0.000000023184883, w: -7.2162054e-10}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.99999976}
+    - name: Colosseium_Guy:Right_Knee
+      parentName: Colosseium_Guy:Right_Leg
+      position: {x: 0.016748725, y: 0.00000000380569, z: 0.00014299}
+      rotation: {x: -3.364647e-11, y: 0.00000000875589, z: 0.047631167, w: 0.99886507}
+      scale: {x: 1.0000004, y: 1, z: 0.99999994}
+    - name: Colosseium_Guy:Right_Foot
+      parentName: Colosseium_Guy:Right_Knee
+      position: {x: 0.015552491, y: 0.000000039617913, z: 0.00066696}
+      rotation: {x: 0.035065964, y: 0.00356902, z: 0.0597152, w: 0.99759305}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Colosseium_Guy:No 1
+      parentName: Colosseium_Guy:Right_Foot
+      position: {x: 0.002551825, y: -0.00000006619256, z: 0}
+      rotation: {x: -0.0000000031826182, y: -0.000000013934663, z: -0.6839878, w: 0.72949356}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000001}
+    - name: Colosseium_Guy:Right_Toe
+      parentName: Colosseium_Guy:No 1
+      position: {x: 0.0017922444, y: 0.000012400888, z: -0.00393083}
+      rotation: {x: 0.000000002777927, y: -0.000000034889286, z: -0.011361507, w: 0.9999355}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
